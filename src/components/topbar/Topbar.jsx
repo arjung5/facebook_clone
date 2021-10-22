@@ -10,7 +10,7 @@ function Topbar() {
             <div className="topbarCenter" >
                 <div className="searchBar">
                     <Search className="searchIcon"/>
-                    <input className="searchInput" type="text" placeholder="Search for friends post or any video" className="searchInput"/>
+                    <input className="searchInput" type="text" placeholder="Search for friends post or any video" />
                 </div>
             </div>
             <div className="topbarRight" >
@@ -32,7 +32,7 @@ function Topbar() {
                         <span className="topbarIconBadge">1</span>
                     </div>
                 </div>
-                <img className="topbarImg" src="/assests/download.jfif" alt="profile" className="topbarImg" />
+                <img className="topbarImg" src="/assests/download.jfif" alt="profile"  />
             </div>
 
         </div>
