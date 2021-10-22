@@ -1,0 +1,26 @@
+.popup{
+ background-color: red;   
+};
+.popupWrapper{
+    padding: 20px;
+    background-color: yellow;
+    list-style: none;
+};
+.popuplists{
+    padding: 0;
+    margin:0;
+    list-style: none;
+};
+.popuplist{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.poplistelement{
+    display: flex;
+    align-items: center;
+
+};
+.popuplistLeft{
+    margin-right: 20px;
+};
