@@ -54,7 +54,7 @@ export const Posts = [
     },
     {
         id: 2,
-        desc: "hatered for none",
+        desc: "This is loren ipsum , text dummy",
         photo: "assests/2.jpeg",
         date: "15",
         userId: 2,
@@ -84,7 +84,7 @@ export const Posts = [
     },
     {
         id: 5,
-        desc: "Rishtedar bhadve hai aur rahenge ",
+        desc: "Lets Enjoy this day and give best out of it ",
         photo: "assests/5.jpeg",
         date: "2",
         userId: 5,
@@ -94,7 +94,7 @@ export const Posts = [
     },
     {
         id: 6,
-        desc: "Chole khau aur khob hilau",
+        desc: "Not to worry got is with you",
         photo: "assests/downalod.jfif",
         date: "",
         userId: 6,
@@ -104,7 +104,7 @@ export const Posts = [
     },
     {
         id: 7,
-        desc: "Na andu , na pandu tu sabse bada gandu",
+        desc: "Mandir to yahi banega !!!!!!!!!!",
         photo: "assests/download12.jfif",
         date: "55",
         userId: 7,
